@@ -30,17 +30,22 @@ Explores churn patterns, repeat purchase behaviors, and lifetime value (CLV) by 
 
 ### Data: 
   Contains anonymized sample datasets.
+  
 ### Power BI Files: 
   Includes the .pbix file for the dashboard.
+  
 ### Screenshots: 
   Showcases the visualizations and insights generated.
+  
 ### Documentation: 
 Detailed steps on data preparation and dashboard design.
 
 ## How to Use
 1 Clone this repository.
+
 2 Open the .pbix file in Power BI Desktop.
+
 3 Explore and interact with the dashboard to discover insights.
 
-Contact
+### Contact
 For any queries or contributions, feel free to reach out at **https://www.linkedin.com/in/praneetha-ganesh/**
