@@ -1,7 +1,7 @@
 # Credit-Transaction-Customer-Analytics-PowerBi
 
 ## Overview 
-  **This Dashboard is an interactive platform designed to provide an analysis of customer demographics, card usage patterns, and key financial metrics.**
+  **This Dashboard is an interactive platform that analyzes customer demographics, card usage patterns, and key financial metrics.**
  
 ### 1 Customer Demographics
   Visualizes key metrics like average age, income brackets, and spending categories by product type.
